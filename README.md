@@ -1,13 +1,13 @@
-#Project - Street Painter
-###Project Contributour
+# Project - Street Painter
+### Project Contributour
 
 - Ji-Hye Shin
 - Jin-Gyeong Park
 - Young-Ki Kim
 
-###Project Proposal
+### Project Proposal
 
-###Project Task
+### Project Task
 1. Cycle-GAN Model Train
   1. Cycle-GAN 학습 환경 구성 (논문 코드를 위한 Tensorflow-GPU, CUDA 환경 구축)
   2. Monet DataSet Train
@@ -19,6 +19,6 @@
 	1. Picture Size Conversion
 
 
-###Refernece
+### Refernece
 * Cycle-GAN [(PAPER)](https://arxiv.org/pdf/1703.10593.pdf)
 * Cycle-GAN [(CODE)](https://github.com/xhujoy/CycleGAN-tensorflow)
