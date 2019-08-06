@@ -17,6 +17,7 @@
     2. Back-End Development
 3. Data I/O Coonfiguration for Our Service
     1. Picture Size Conversion
+    2. 학습된 모델 & 코드 서비스 Back-End에 개발
 
 
 ### Refernece
